@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+
+.vs/OpenGL/v16/Browse.VC.opendb
